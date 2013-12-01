@@ -36,3 +36,6 @@ pickle-email-*.html
 .project
 config/initializers/secret_token.rb
 >>>>>>> 91b59b17edff19f9e295a2aa1165a760fe7f09e2
+
+# Ignore application configuration
+/config/application.yml
